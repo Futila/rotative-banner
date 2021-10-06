@@ -1,0 +1,1 @@
+💻 A simple Rotative Banner using HTML, CSS and JavaScript.
